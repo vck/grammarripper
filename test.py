@@ -15,7 +15,6 @@ a confuser machine to shuffle your sentence and will make your grammar looking b
 # grammaripper/kernel/procword.py --> word processor
 
 from kernel.core import *
-import logging
 
 while True:
     try:
